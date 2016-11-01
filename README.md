@@ -1,6 +1,9 @@
 # docker-postgresql
 
-(Postresql 9.3) https://github.com/andreagrandi/postgresql-docker
+## Referencias:
+- (Postresql 9.3) https://github.com/andreagrandi/postgresql-docker
+
+- https://docs.docker.com/engine/examples/postgresql_service/
 
 Imagem Docker para PostgreSQL
 
